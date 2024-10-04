@@ -1,7 +1,11 @@
 # Guia git
+Para los compañeros de FCT MEDAC
 
 ### Bajar repositorio
 - git clone https://github.com/jm-willy/guia_git.git
+
+### Subir a repositorio nuevo
+- Se crea un repositorio vacio en Gihun, Gitlab, etc
 
 ### Subir a repositorio existente
 1. git init
