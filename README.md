@@ -29,9 +29,9 @@ una rama para desarrollar y dejamos una principal:
 5. git checkout -b dev-local
 
 ### Merge(unir) branches
-1. git checkout main-local
-2. git merge dev-local
-3. git push https://github.com/jm-willy/guia_git.git dev | Traslada los cambios de la rama dev-local a la rama github "dev"
+1. git checkout main-local | Para cambiar una rama hace falta estar en ella
+2. git merge dev-local main-local | Mete los cambios de "dev-local" en "main-local"
+3. git push https://github.com/jm-willy/guia_git.git dev | Traslada los cambios de la rama "main-local" a la rama github "dev"
 
 
 
