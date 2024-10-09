@@ -7,12 +7,14 @@ Para los compañeros de FCT MEDAC
 ### Subir a repositorio nuevo
 - Se crea un repositorio vacio en Gihun, Gitlab, etc
 
-### Subir a repositorio existente
+### Crear repositorio
 1. git init | Esto inicia el rastreo de cambios en el directorio por git
 2. git add . | Añade todos los archivos del directorio actual
 3. git checkout -b local | Crea y cambia a la rama "local"
 4. git commit  | Crea y cambia a la rama "local"
-5. git push https://github.com/jm-willy/guia_git.git | Traslada los cambios de la rama local a la rama github "local"
+
+### Subir a repositorio existente
+- git push https://github.com/jm-willy/guia_git.git | Traslada los cambios de la rama local a la rama github "local"
 
 #### Numero de branches(ramas)
 Cuando se trabaja en proyectos serios, hay que tener 
