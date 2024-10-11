@@ -4,10 +4,10 @@ Para los compañeros de FCT MEDAC
 ### Bajar repositorio
 - git clone https://github.com/jm-willy/guia_git.git
 
-### Subir a repositorio nuevo
-- Se crea un repositorio vacio en Gihun, Gitlab, etc
+### Subir a repositorio remomot nuevo
+- Se crea un repositorio vacio en Gihub, Gitlab, etc
 
-### Crear repositorio
+### Crear repositorio local
 1. git init | Esto inicia el rastreo de cambios en el directorio por git
 2. git add . | Añade todos los archivos del directorio actual(ver consola)
 3. git checkout -b local | Crea y cambia a la rama "local"
