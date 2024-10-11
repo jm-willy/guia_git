@@ -9,12 +9,13 @@ Para los compañeros de FCT MEDAC
 
 ### Crear repositorio
 1. git init | Esto inicia el rastreo de cambios en el directorio por git
-2. git add . | Añade todos los archivos del directorio actual
+2. git add . | Añade todos los archivos del directorio actual(ver consola)
 3. git checkout -b local | Crea y cambia a la rama "local"
 4. git commit  | Crea y cambia a la rama "local"
 
 ### Subir a repositorio existente
-- git push https://github.com/jm-willy/guia_git.git | Traslada los cambios de la rama local a la rama github "local"
+1. git commit -a | git commit + git add(añade todos los archivos cambiados al commit)
+2. git push https://github.com/jm-willy/guia_git.git | Traslada los cambios de la rama local a la rama github "local"
 
 #### Numero de branches(ramas)
 Cuando se trabaja en proyectos serios, hay que tener 
