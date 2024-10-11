@@ -11,7 +11,7 @@ Para los compañeros de FCT MEDAC
 1. git init | Esto inicia el rastreo de cambios en el directorio por git
 2. git add . | Añade todos los archivos del directorio actual(ver consola)
 3. git checkout -b local | Crea y cambia a la rama "local"
-4. git commit  | Crea y cambia a la rama "local"
+4. git commit  | "Comete" los cambios de los archivos añadidos a la rama
 
 ### Subir a repositorio existente
 1. git commit -a | git commit + git add(añade todos los archivos cambiados al commit)
