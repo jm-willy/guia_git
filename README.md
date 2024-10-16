@@ -4,7 +4,7 @@ Para los compañeros de FCT MEDAC
 ### Bajar repositorio
 - git clone https://github.com/jm-willy/guia_git.git
 
-### Subir a repositorio remomot nuevo
+### Subir a repositorio remoto nuevo
 - Se crea un repositorio vacio en Gihub, Gitlab, etc
 
 ### Crear repositorio local
