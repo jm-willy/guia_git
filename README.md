@@ -13,7 +13,7 @@ Para los compañeros de FCT MEDAC
 3. git checkout -b local | Crea y cambia a la rama "local"
 4. git commit  | "Comete" los cambios de los archivos añadidos a la rama
 
-### Subir a repositorio existente
+# Subir a repositorio existente
 1. git commit -a | git commit + git add(añade todos los archivos cambiados al commit)
 2. git push https://github.com/jm-willy/guia_git.git | Traslada los cambios de la rama local a la rama github "local"
 
