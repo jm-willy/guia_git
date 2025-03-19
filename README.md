@@ -1,5 +1,5 @@
 # Guia git
-Para los compañeros de FCT MEDAC
+Documentacion oficial: https://git-scm.com/book/en/v2
 
 ## Bajar repositorio
 - git clone https://github.com/jm-willy/guia_git.git
