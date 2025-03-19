@@ -6,6 +6,7 @@ Documentacion oficial: https://git-scm.com/book/en/v2
 
 ### Subir a repositorio remoto nuevo
 - Se crea un repositorio vacio en Gihub, Gitlab, etc
+- Vacio por completo, nada de README.md ni LICENSE
 
 ## Crear repositorio local
 1. git init | Esto inicia el rastreo de cambios en el directorio por git
