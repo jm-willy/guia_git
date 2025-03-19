@@ -30,11 +30,12 @@ una rama para desarrollar y dejamos una principal:
 2. git init
 3. git add .
 4. git checkout -b main-local
-5. git checkout -b dev-local
+5. git commit -a
+6. git checkout -b dev-local
 
 ## Merge(unir) branches
-1. git checkout main-local | Para cambiar una rama hace falta estar en ella
-2. git merge dev-local main-local | Mete los cambios de "dev-local" en "main-local"
+1. git checkout main-local | Para hacer cambios en una rama hace falta estar en ella
+2. git merge dev-local | Mete los cambios de "dev-local" en la que estamos "main-local"
 3. git push https://github.com/jm-willy/guia_git.git dev | Traslada los cambios de la rama "main-local" a la rama github "dev" O TAMBIEN:
 4. git push https://github.com/jm-willy/guia_git.git main | Traslada los cambios de la rama "main-local" a la rama github "main"
 
